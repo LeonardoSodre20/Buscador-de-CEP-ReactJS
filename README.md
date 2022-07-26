@@ -31,7 +31,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/LeonardoSodre20/Buscador-de-CEP-ReactJS.git
 
 # entrar na pasta do projeto my-project
 cd my-project
@@ -47,4 +47,4 @@ npm start
 
 Leonardo Vieira Sodré
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/leonardo-sodr%C3%A9-454a671a3/
