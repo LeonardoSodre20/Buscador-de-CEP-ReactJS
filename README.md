@@ -5,17 +5,17 @@
 
 https://peaceful-kataifi-8982b4.netlify.app/
 
-Buscador de CEP é uma aplicação web e mobile construída com o tutorial do canal Sujeito Programador [SujeitoProgramador]("https://www.youtube.com/watch?v=oy4cbqE1_qc")
+Buscador de CEP é uma aplicação web e mobile construída com o tutorial do canal Sujeito Programador [SujeitoProgramador](https://www.youtube.com/watch?v=oy4cbqE1_qc)
 
 A aplicação consiste em fazer uma busca de dados contendo as informações de locais a partir do cep inserido , e depois que o Cep é inserido no campo de busca , a aplicação mostra os dados do local desejado.
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/LeonardoSodre20/Assets/blob/main/Mobile/WhatsApp%20Image%202022-07-26%20at%2016.30.56.jpeg) ![Mobile 2](https://github.com/LeonardoSodre20/Assets/blob/main/Mobile/WhatsApp%20Image%202022-07-26%20at%2016.31.11.jpeg)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/LeonardoSodre20/Assets/blob/main/Web/WhatsApp%20Image%202022-07-26%20at%2016.40.30.jpeg)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/LeonardoSodre20/Assets/blob/main/Web/WhatsApp%20Image%202022-07-26%20at%2016.41.12.jpeg)
 
 # Tecnologias utilizadas
 
