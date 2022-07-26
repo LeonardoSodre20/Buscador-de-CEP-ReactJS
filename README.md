@@ -10,7 +10,7 @@ Buscador de CEP é uma aplicação web e mobile construída com o tutorial do ca
 A aplicação consiste em fazer uma busca de dados contendo as informações de locais a partir do cep inserido , e depois que o Cep é inserido no campo de busca , a aplicação mostra os dados do local desejado.
 
 ## Layout mobile
-![Mobile 1](https://github.com/LeonardoSodre20/Assets/blob/main/Mobile/WhatsApp%20Image%202022-07-26%20at%2016.30.56.jpeg) ![Mobile 2](https://github.com/LeonardoSodre20/Assets/blob/main/Mobile/WhatsApp%20Image%202022-07-26%20at%2016.31.11.jpeg)
+![Mobile 1](https://github.com/LeonardoSodre20/Assets/blob/main/Mobile/WhatsApp%20Image%202022-07-26%20at%2017.21.43.jpeg) ![Mobile 2](https://github.com/LeonardoSodre20/Assets/blob/main/Mobile/WhatsApp%20Image%202022-07-26%20at%2017.22.24.jpeg)
 
 ## Layout web
 ![Web 1](https://github.com/LeonardoSodre20/Assets/blob/main/Web/WhatsApp%20Image%202022-07-26%20at%2016.40.30.jpeg)
