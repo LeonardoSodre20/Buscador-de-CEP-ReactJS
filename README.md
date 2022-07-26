@@ -5,7 +5,7 @@
 
 https://peaceful-kataifi-8982b4.netlify.app/
 
-Buscador de CEP é uma aplicação web e mobile construída com o tutorial do canal Sujeito Programador [SujeitoProgramador](https://www.youtube.com/watch?v=oy4cbqE1_qc)
+Buscador de CEP é uma aplicação web e mobile construída com o tutorial do canal Sujeito Programador [Link do Canal](https://www.youtube.com/watch?v=oy4cbqE1_qc)
 
 A aplicação consiste em fazer uma busca de dados contendo as informações de locais a partir do cep inserido , e depois que o Cep é inserido no campo de busca , a aplicação mostra os dados do local desejado.
 
